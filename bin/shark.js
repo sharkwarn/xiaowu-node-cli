@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict'
  // 定义脚手架的文件路径
 process.env.NODE_PATH = __dirname + '/../node_modules/';
